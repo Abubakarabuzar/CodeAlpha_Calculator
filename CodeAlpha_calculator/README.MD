@@ -2,12 +2,12 @@
 
 A simple calculator application that performs basic arithmetic operations like addition, subtraction, multiplication, and division.
 
-## 📌 Project Description
+ Project Description
 
 This Calculator project is built to understand basic programming concepts such as user input, event handling, and logical operations.  
 It provides a clean and easy-to-use interface for performing calculations.
 
-## ✨ Features
+Features
 
 - Addition
 - Subtraction
@@ -16,7 +16,7 @@ It provides a clean and easy-to-use interface for performing calculations.
 - Clear / Reset calculation
 - Responsive and user-friendly UI
 
-## 🛠️ Tech Stack
+ Tech Stack
 
 (Choose according to your project)
 
@@ -25,10 +25,11 @@ It provides a clean and easy-to-use interface for performing calculations.
 - JavaScript  
 
 
-## 🚀 How to Run the Project
+ How to Run the Project
 
-### If it is a simple HTML/CSS/JS project:
+## it is a simple HTML/CSS/JS project:
 1. Download or clone the repository
 2. Open `calculator.html` in your browser
+
 
 
